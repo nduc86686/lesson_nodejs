@@ -35,3 +35,4 @@ console.log(decrypted);
 **Phương thức createDecipheriv trả về một đối tượng Decipher, cho phép ta giải mã chuỗi đã được mã hóa theo thuật toán và key được chỉ định. Phương thức update và final được sử dụng để giải mã dữ liệu đầu vào, sau đó trả về chuỗi gốc dưới dạng utf8.**
 
 **Module crypto trong Node.js cung cấp nhiều thuật toán mã hóa khác nhau, cùng với các chức năng khác như tạo chữ ký số và xác thực người dùng. Ta có thể tìm hiểu thêm về module này trong tài liệu chính thức của Node.js.**
+###
